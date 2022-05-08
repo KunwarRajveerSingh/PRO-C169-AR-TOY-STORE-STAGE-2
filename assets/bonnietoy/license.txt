@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Bonnie by Finchy (Rigged)
+* source:	https://sketchfab.com/3d-models/toy-bonnie-by-finchy-rigged-8d8dc1c850a74b6d99a83b48a44d69e4
+* author:	garterSnake() (https://sketchfab.com/SpoderMan3288)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Bonnie by Finchy (Rigged)" (https://sketchfab.com/3d-models/toy-bonnie-by-finchy-rigged-8d8dc1c850a74b6d99a83b48a44d69e4) by garterSnake() (https://sketchfab.com/SpoderMan3288) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
